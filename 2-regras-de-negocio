@@ -1,0 +1,8 @@
+Regras de Negócio
+- Um aluno só pode estar matriculado em um curso por vez
+- Alunos possuem código de identificação (RA)
+- Cursos são compostos por disciplinas
+- Cada disciplina terá no maximo 30 alunos por turma
+- As disciplinas podem ser obrigatórias ou optatias, dependendo do curso
+- As disciplinas pertencem a departamentos específicos
+- 
